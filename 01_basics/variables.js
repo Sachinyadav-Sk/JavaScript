@@ -9,4 +9,3 @@ accountPassword = "11111111"; // Allowed since accountPassword is let
 accountCity = "noida"; // Allowed since accountCity is let
 
 console.table([accountId, accountEmail, accountPassword, accountCity]);
-// Output:
